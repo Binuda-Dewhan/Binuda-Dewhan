@@ -1,7 +1,7 @@
 [![MasterHead](https://png.pngtree.com/background/20210710/original/pngtree-blue-business-tech-artificial-intelligence-banner-background-picture-image_1000191.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Binuda Dewhan</h1>
 <h3 align="center">I'm , a driven undergraduate student pursuing a degree in Data Science at SLIIT. I have a deep curiosity for the world of data and its transformative potential</h3>
-<img align="right" alt="AI with machine learning" width="400" src="https://nearlearn.com/blog/wp-content/uploads/2019/11/Deep-Learning-Training.png">
+<img align="right" alt="AI with machine learning" width="400" src="https://www.analyticsinsight.net/wp-content/uploads/2020/03/AI_Animated.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it21365232&label=Profile%20views&color=0e75b6&style=flat" alt="it21365232" /> </p>
 
