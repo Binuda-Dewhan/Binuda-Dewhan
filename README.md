@@ -1,4 +1,4 @@
-[![MasterHead](https://sase.org/wp-content/uploads/2020/06/BANNER-SIZE-AI-and-Machine-Learning.jpg)](https://rishavchanda.io)
+[![MasterHead](https://png.pngtree.com/background/20210710/original/pngtree-blue-business-tech-artificial-intelligence-banner-background-picture-image_1000191.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Binuda Dewhan</h1>
 <h3 align="center">I'm , a driven undergraduate student pursuing a degree in Data Science at SLIIT. I have a deep curiosity for the world of data and its transformative potential</h3>
 <img align="right" alt="AI with machine learning" width="400" src="https://nearlearn.com/blog/wp-content/uploads/2019/11/Deep-Learning-Training.png">
