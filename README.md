@@ -3,7 +3,7 @@
 <h3 align="center">I'm , a driven undergraduate student pursuing a degree in Data Science at SLIIT. I have a deep curiosity for the world of data and its transformative potential</h3>
 <img align="right" alt="AI with machine learning" width="400" src="https://www.analyticsinsight.net/wp-content/uploads/2020/03/AI_Animated.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Binuda-Dewhan&label=Profile%20views&color=0e75b6&style=flat" alt="it21365232" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Binuda-Dewhan&label=Profile%20views&color=0e75b6&style=flat" alt="Binuda-Dewhan" /> </p>
 
 - 🔭 I’m currently working on **Data mining project**
 
